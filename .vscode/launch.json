@@ -1,0 +1,15 @@
+{"configurations": [
+
+	{
+		"name": "Release",
+		"request": "launch",
+		"type": "dart",
+		"flutterMode": "release"
+	},
+    {
+		"name": "Debug",
+		"request": "launch",
+		"type": "dart",
+		"flutterMode": "debug"
+	}
+]}
